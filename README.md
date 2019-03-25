@@ -1,4 +1,4 @@
-## Create your own Qtum Dapp
+## Create your own AltHash Dapp
 
 Resources:
 
